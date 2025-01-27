@@ -10,6 +10,6 @@ Button Animations: Smooth and engaging hover effects for an interactive feel.
 Pure HTML & CSS: No frameworks, libraries, or JavaScript—just pure, fast, and simple code.
 Whether you're a beginner learning web development or a designer looking for a clean foundation, Ares is the perfect starting point!
 
-![alt text](https://ibb.co/Gdjgrcn)
+![screenshot]([https://ibb.co/Gdjgrcn](https://i.ibb.co/zmwKtGQ/Screenshot-2025-01-27-132634.png))
 
 AUTH:MuddTekz
