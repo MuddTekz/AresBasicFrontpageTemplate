@@ -1,0 +1,39 @@
+
+.navagation-bar-main {
+    background-color: #333;
+    width: 100%;
+    height: 80px;
+}
+
+#nav092 {
+    float: right;
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  height: 80px;
+  width: 50%;
+  background-color: #333;
+  top: 0;
+}
+
+#nav092 a {
+  text-decoration: none;
+    font-size: 17px;
+    font-weight: 100;
+    font-family: serif;
+    float: right;
+    height: 10px;
+    color: white;
+    background-color: #333;
+    text-align: center;
+    padding: 34px 30px;
+  }
+
+.Tex {
+    float: left;
+  color: white;
+  font-size: larger;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  padding: 0px 0px;
+}

@@ -1,0 +1,19 @@
+.Middle-Segment {
+    margin-top: 100px;
+    width: 70%;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    background-color: #2d2d2d;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.Middle-Segment-Text {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.5em;
+}

@@ -1,0 +1,23 @@
+body {
+  background-color: #333;
+}
+
+.AresBG {
+  position: relative;
+    filter: blur(2px);
+  -webkit-filter: blur(2px);
+}
+
+.Title {
+    font-size: 50px;
+    color: white;
+  font-family: 'Times New Roman', Times, serif;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.logo {
+    padding: 12px 5px;
+    float: left;
+}
